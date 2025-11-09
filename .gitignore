@@ -1,0 +1,6 @@
+.env
+basic_concept.ipynb
+__pycache__/
+.ipynb_checkpoints/
+.idea/
+patient_records.csv
